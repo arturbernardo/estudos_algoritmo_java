@@ -1,6 +1,6 @@
 package org.example;
 
-public class MainD {
+public class DoubleLinkedListMain {
     public static void main(String[] args) {
         DoubleLinkList linkedList = new DoubleLinkList(1);
         linkedList.append(5);

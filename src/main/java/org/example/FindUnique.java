@@ -9,7 +9,6 @@ public class FindUnique {
         System.out.println(findUnique(vectorB));
     }
 
-
     private static int findUnique(int[] vector) {
         int unique = 0;
 
